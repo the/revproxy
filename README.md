@@ -15,6 +15,9 @@ Usage
 
 ```
 revproxy [OPTIONS] target
+  -H	print request headers
+  -color
+    	format output with colors
   -host string
         override host header
   -port uint
